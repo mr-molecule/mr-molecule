@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mr-molecule
+- 👋 Hi, I’m Mohamed Farkhan
 - 👀 I’m interested in Data_Analytics 
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 Do reach me via Linkedin- www.linkedin.com/in/mohamed-farkhan-025a1b209 
