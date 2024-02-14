@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mr-molecule
-- 👀 I’m interested in WEB DEVELOPMENT 
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on WEB DEVELOPMENT Projects
+- 👀 I’m interested in Data_Analytics 
+- 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 Do reach me via Linkedin- www.linkedin.com/in/mohamed-farkhan-025a1b209 
 
 <!---
